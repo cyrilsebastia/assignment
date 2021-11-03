@@ -1,0 +1,115 @@
+
+
+*{
+    padding:0;
+    margin:0;
+}
+
+header{
+    border:1px solid violet;
+   
+    border-color: red;
+    height: 100px;
+    background-color: blueviolet;
+}
+.heading a{
+    position: relative;
+    margin:2px ;
+    padding: 1px;
+    border-top: 10px;
+    border:1px solid red; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:orange;
+   text-decoration: none;
+   margin-right: 10px;
+  
+}
+.heading a:hover{
+    color:green;
+    background-color: yellow;
+}
+.heading{
+    position: relative;
+    margin-top:10px ;
+    
+}
+.backgroundcolor{
+    border:1px solid red; 
+background-color: orange;
+}
+.bgaboutus{
+
+    border:1px solid red;
+    background-color:yellow ;
+}
+
+.kottayam{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.thrissur{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.wayanad{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.alappuzha{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.ernakulam{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.idukki{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.kannur{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.kasaragod{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.kollam{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.kozhikode{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.malappuram{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.palakkad{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.pathanamthitta{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
+.thiruvananthapuram{
+    border:1px solid red;
+    background-color:yellow ;
+    
+}
